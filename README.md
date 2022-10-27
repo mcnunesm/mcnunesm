@@ -4,6 +4,8 @@
 
 🌱 I’m currently learning Python
 
+:world_map:	Take a look on my projects here [@mcnunesm](https://mcnunesm.github.io/projetos) 
+
 📫 How to reach me marianunesm@hotmail.com
 
 <!---
