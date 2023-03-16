@@ -1,6 +1,6 @@
 👋 Hi, I’m Maria Clara Nunes
 
-👀 I’m interested in Python, HTML, CSS, React
+👀 I’m interested in HTML, CSS, JavaScript and Python
 
 🌱 I’m currently learning Python
 
