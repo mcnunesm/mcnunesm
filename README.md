@@ -2,7 +2,7 @@
 
 👀 I’m interested in HTML, CSS, JavaScript and Python
 
-🌱 I’m currently learning Python
+🌱 I’m currently learning JavaScript
 
 :world_map:	Take a look on my projects here [@mcnunesm](https://mcnunesm.github.io/projetos) 
 
